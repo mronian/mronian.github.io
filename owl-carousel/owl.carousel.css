@@ -30,11 +30,11 @@
 	width: 100%;
 }
 .owl-carousel .owl-wrapper-outer.autoHeight{
-	-webkit-transition: height 500ms ease-in-out;
-	-moz-transition: height 500ms ease-in-out;
-	-ms-transition: height 500ms ease-in-out;
-	-o-transition: height 500ms ease-in-out;
-	transition: height 500ms ease-in-out;
+	-webkit-transition: height 100ms ease-in-out;
+	-moz-transition: height 100ms ease-in-out;
+	-ms-transition: height 100ms ease-in-out;
+	-o-transition: height 100ms ease-in-out;
+	transition: height 100ms ease-in-out;
 }
 	
 .owl-carousel .owl-item{
@@ -94,14 +94,14 @@
 }
 /* backSlide */
 .owl-backSlide-out {
-  -webkit-animation: backSlideOut 1s both ease;
-  -moz-animation: backSlideOut 1s both ease;
-  animation: backSlideOut 1s both ease;
+  -webkit-animation: backSlideOut 0.3s both ease;
+  -moz-animation: backSlideOut 0.3s both ease;
+  animation: backSlideOut 0.3s both ease;
 }
 .owl-backSlide-in {
-  -webkit-animation: backSlideIn 1s both ease;
-  -moz-animation: backSlideIn 1s both ease;
-  animation: backSlideIn 1s both ease;
+  -webkit-animation: backSlideIn 0.3s both ease;
+  -moz-animation: backSlideIn 0.3s both ease;
+  animation: backSlideIn 0.3s both ease;
 }
 /* goDown */
 .owl-goDown-out {
