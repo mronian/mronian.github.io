@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-size: 14px;
   font-family: "Helvetica Nenu", Hevetica, Arial, sans-serif;
-  overflow: hidden;
+  overflow: scroll;
 }
 body.ready {
   border: 1px solid #eee;
